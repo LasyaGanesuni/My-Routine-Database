@@ -16,3 +16,5 @@ This My Routine Database System is a desktop application where we can update our
 * You have to setup MYSQL database 
 * Next you have to install mysql.connector, for that go to command promt and use this command 
 #### pip3 install mysql-connector
+# Contributor
+#### @LasyaGanesuni
